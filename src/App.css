@@ -1,0 +1,32 @@
+.element {
+  animation-name: float;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+  border-radius: 600px;
+  height: 400px;
+  width: 400px;
+  /*background: #93faee;*/
+  /*border: 2px solid orange;*/
+  display: flex;
+  justify-content: center;
+  
+}
+
+@media screen and (max-width: 568px) {
+  .element {
+    border-radius: 800px
+  }
+}
+
+@keyframes float {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
