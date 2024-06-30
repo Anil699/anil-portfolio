@@ -1,6 +1,6 @@
 import React from "react";
 import Photo from "../Assets/photo.png";
-import Resume from "../Assets/MohanCanva1.pdf";
+import Resume from "../Assets/Anil Resume.pdf";
 import { Styles } from "../Utils/Style";
 import { TiArrowDownOutline } from "react-icons/ti";
 import "../App.css";
@@ -31,7 +31,7 @@ const About = () => {
         </div>
       </div>
       <div className="flex flex-wrap">
-        <img src={Photo} alt="Photo" className="element object-contain p-4" />
+        <img src={Photo} alt="anil pic" className="element object-contain p-4" />
       </div>
     </div>
   );

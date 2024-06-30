@@ -89,8 +89,8 @@ const projects = [
       },
     ],
     image: trends,
-    source_code_link: "https://github.com/mohan-23/mohannxttrendz-app",
-    source_diploy_link: "https://mohanknxttrendz.ccbp.tech/",
+    source_code_link: "https://github.com/Anil699/nexttrendzapp",
+    source_diploy_link: "https://anil-nexttrendzapp.vercel.app/login",
   },
   {
     name: "Todo App",
@@ -111,8 +111,8 @@ const projects = [
       },
     ],
     image: todo,
-    source_code_link: "https://github.com/mohan-23/Mohan-todo-app",
-    source_diploy_link: "https://todoaddtask.ccbp.tech",
+    source_code_link: "https://github.com/Anil699/new-todo-",
+    source_diploy_link: "https://todoaddtask.ccbp.tech/",
   },
   {
     name: "Food Munch",
@@ -133,7 +133,7 @@ const projects = [
       },
     ],
     image: Food,
-    source_code_link: "https://github.com/mohan-23/Mohan-food-app",
+    source_code_link: "",
     source_diploy_link: "https://foodappinfo.ccbp.tech/",
   },
 ];
